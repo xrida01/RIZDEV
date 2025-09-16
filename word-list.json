@@ -1,0 +1,12 @@
+[
+  "www","mail","ftp","admin","api","dev","staging","test","portal","blog",
+  "webmail","shop","m","cdn","static","img","images","beta","vpn","secure",
+  "support","forum","smtp","api2","adminpanel","dashboard","auth","gateway","media","assets",
+  "download","docs","help","api1","api3","billing","payments","pay","shop2","crm",
+  "git","gitlab","jira","confluence","search","mail2","mx","ns1","ns2","smtp2",
+  "db","sql","web","mobile","app","apps","portal2","demo","demo1","staging2",
+  "backups","backup","monitoring","monitor","status","statuspage","health","api-dev","api-staging","sandbox",
+  "images2","img1","images1","static1","assets1","files","upload","uploads","fileserver","media1",
+  "cms","admin2","root","secure1","remote","sftp","telephony","voice","analytics","metrics",
+  "reports","logs","logging","api-v1","api-v2","mobile-api","client","webapp","intranet","internal"
+]
